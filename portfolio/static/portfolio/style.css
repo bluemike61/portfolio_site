@@ -1,0 +1,13 @@
+* {
+    box-sizing: content-box;
+}
+
+body {
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.homeImg {
+    height: 40rem;
+    width: 70rem;
+}
