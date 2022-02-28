@@ -6,8 +6,8 @@
  <br>
  Light Dark Mode: https://github.com/bluemike61/frontend_projects/tree/main/Light_Dark_Mode  
  <br>
- Netflix nav: https://github.com/bluemike61/frontend_projects/tree/main/netflix
+ Netflix nav: https://github.com/bluemike61/frontend_projects/tree/main/netflix  
  <br>
- The Choice: https://github.com/bluemike61/frontend_projects/tree/main/The_Choice
+ The Choice: https://github.com/bluemike61/frontend_projects/tree/main/The_Choice  
  <br>
- Dad Jokes: https://github.com/bluemike61/frontend_projects/tree/main/dad_jokes
+ Dad Jokes: https://github.com/bluemike61/frontend_projects/tree/main/dad_jokes  
